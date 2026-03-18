@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlackJack.Core
+namespace BlackJack.Core.Enums
 {
-    internal class Resultado
+    public enum Naipe
     {
+        Copas,
+        Ouros,
+        Paus,
+        Espadas
     }
 }
