@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BlackJack.Core")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CardGame.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a685be445ba775d5d3b0cb8a6c75f704bbcd4d7f")]
-[assembly: System.Reflection.AssemblyProductAttribute("BlackJack.Core")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BlackJack.Core")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fe8fec370f07cdc6cffd9e6d2b554773ec254a0")]
+[assembly: System.Reflection.AssemblyProductAttribute("CardGame.Core")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CardGame.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

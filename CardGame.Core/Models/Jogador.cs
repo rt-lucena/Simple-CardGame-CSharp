@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlackJack.Core.Models
+namespace CardGame.Core.Models
 {
+
     public class Jogador
     {
         public string Nome { get; }

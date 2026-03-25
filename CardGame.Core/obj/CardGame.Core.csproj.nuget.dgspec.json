@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\CSharp\\Simple-BlackJack-CSharp\\BlackJack.Core\\BlackJack.Core.csproj": {}
+    "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\CardGame.Core.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\CSharp\\Simple-BlackJack-CSharp\\BlackJack.Core\\BlackJack.Core.csproj": {
+    "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\CardGame.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\CSharp\\Simple-BlackJack-CSharp\\BlackJack.Core\\BlackJack.Core.csproj",
-        "projectName": "BlackJack.Core",
-        "projectPath": "D:\\Projects\\CSharp\\Simple-BlackJack-CSharp\\BlackJack.Core\\BlackJack.Core.csproj",
+        "projectUniqueName": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\CardGame.Core.csproj",
+        "projectName": "CardGame.Core",
+        "projectPath": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\CardGame.Core.csproj",
         "packagesPath": "C:\\Users\\rtluc\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\CSharp\\Simple-BlackJack-CSharp\\BlackJack.Core\\obj\\",
+        "outputPath": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rtluc\\AppData\\Roaming\\NuGet\\NuGet.Config",

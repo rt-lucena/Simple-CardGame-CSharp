@@ -1,12 +1,13 @@
-﻿using BlackJack.Core.Enums;
+﻿using CardGame.Core.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlackJack.Core.Models
+namespace CardGame.Core.Models
 {
+
     public class Baralho
     {
         private readonly List<Carta> _cartas;

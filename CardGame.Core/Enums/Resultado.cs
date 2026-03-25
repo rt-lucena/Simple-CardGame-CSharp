@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlackJack.Core.Enums
+namespace CardGame.Core.Enums
 {
-    public enum Naipe
+    public enum Resultado
     {
-        Copas,
-        Ouros,
-        Paus,
-        Espadas
+        JogadorVenceu,
+        AdversarioVenceu,
+        Empate
     }
 }
