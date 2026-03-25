@@ -56,11 +56,3 @@ dotnet build
 
 * **Nome:** Rafael Teofilo Lucena
 * **RM:** 555600
-
----
-
-Se quiser dar um próximo passo, posso te ajudar a adicionar:
-
-* exemplos de código (`Exemplo de uso`)
-* testes unitários sugeridos
-* ou até uma versão pronta para publicação no NuGet 🚀
