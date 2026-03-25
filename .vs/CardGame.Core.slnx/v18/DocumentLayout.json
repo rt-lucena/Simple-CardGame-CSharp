@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|d:\\projects\\csharp\\simple-cardgame-csharp\\cardgame.core\\models\\mao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|solutionrelative:cardgame.core\\models\\mao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|d:\\projects\\csharp\\simple-cardgame-csharp\\cardgame.core\\models\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|solutionrelative:cardgame.core\\models\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|d:\\projects\\csharp\\simple-cardgame-csharp\\cardgame.core\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|solutionrelative:cardgame.core\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|d:\\projects\\csharp\\simple-cardgame-csharp\\cardgame.core\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|solutionrelative:cardgame.core\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|d:\\projects\\csharp\\simple-cardgame-csharp\\cardgame.core\\models\\mao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|solutionrelative:cardgame.core\\models\\mao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|d:\\projects\\csharp\\simple-cardgame-csharp\\cardgame.core\\models\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|solutionrelative:cardgame.core\\models\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|d:\\projects\\csharp\\simple-cardgame-csharp\\cardgame.core\\models\\baralho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|solutionrelative:cardgame.core\\models\\baralho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|d:\\projects\\csharp\\simple-cardgame-csharp\\cardgame.core\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|solutionrelative:cardgame.core\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|d:\\projects\\csharp\\simple-cardgame-csharp\\cardgame.core\\enums\\naipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|solutionrelative:cardgame.core\\enums\\naipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|d:\\projects\\csharp\\simple-cardgame-csharp\\cardgame.core\\models\\baralho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|solutionrelative:cardgame.core\\models\\baralho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09C87A52-F124-9213-AA25-6BB16547A1F9}|CardGame.Core\\CardGame.Core.csproj|d:\\projects\\csharp\\simple-cardgame-csharp\\cardgame.core\\enums\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +46,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Historico.cs",
+              "DocumentMoniker": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Historico.cs",
+              "RelativeDocumentMoniker": "CardGame.Core\\Models\\Historico.cs",
+              "ToolTip": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Historico.cs",
+              "RelativeToolTip": "CardGame.Core\\Models\\Historico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T02:21:12.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Partida.cs",
+              "DocumentMoniker": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Partida.cs",
+              "RelativeDocumentMoniker": "CardGame.Core\\Models\\Partida.cs",
+              "ToolTip": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Partida.cs",
+              "RelativeToolTip": "CardGame.Core\\Models\\Partida.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T02:00:55.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mao.cs",
+              "DocumentMoniker": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Mao.cs",
+              "RelativeDocumentMoniker": "CardGame.Core\\Models\\Mao.cs",
+              "ToolTip": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Mao.cs",
+              "RelativeToolTip": "CardGame.Core\\Models\\Mao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:37:20.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Naipe.cs",
               "DocumentMoniker": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Enums\\Naipe.cs",
               "RelativeDocumentMoniker": "CardGame.Core\\Enums\\Naipe.cs",
@@ -55,7 +110,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "Carta.cs",
+              "DocumentMoniker": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Carta.cs",
+              "RelativeDocumentMoniker": "CardGame.Core\\Models\\Carta.cs",
+              "ToolTip": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Carta.cs",
+              "RelativeToolTip": "CardGame.Core\\Models\\Carta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:37:25.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Resultado.cs",
               "DocumentMoniker": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Enums\\Resultado.cs",
               "RelativeDocumentMoniker": "CardGame.Core\\Enums\\Resultado.cs",
@@ -63,12 +131,11 @@
               "RelativeToolTip": "CardGame.Core\\Enums\\Resultado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T01:38:06.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T01:38:06.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Valor.cs",
               "DocumentMoniker": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Enums\\Valor.cs",
               "RelativeDocumentMoniker": "CardGame.Core\\Enums\\Valor.cs",
@@ -76,12 +143,11 @@
               "RelativeToolTip": "CardGame.Core\\Enums\\Valor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T01:38:03.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T01:38:03.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Baralho.cs",
               "DocumentMoniker": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Baralho.cs",
               "RelativeDocumentMoniker": "CardGame.Core\\Models\\Baralho.cs",
@@ -89,55 +155,20 @@
               "RelativeToolTip": "CardGame.Core\\Models\\Baralho.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T01:37:26.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T01:37:26.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Carta.cs",
-              "DocumentMoniker": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Carta.cs",
-              "RelativeDocumentMoniker": "CardGame.Core\\Models\\Carta.cs",
-              "ToolTip": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Carta.cs",
-              "RelativeToolTip": "CardGame.Core\\Models\\Carta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T01:37:25.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Jogador.cs",
               "DocumentMoniker": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Jogador.cs",
               "RelativeDocumentMoniker": "CardGame.Core\\Models\\Jogador.cs",
               "ToolTip": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Jogador.cs",
               "RelativeToolTip": "CardGame.Core\\Models\\Jogador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T01:37:23.958Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Mao.cs",
-              "DocumentMoniker": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Mao.cs",
-              "RelativeDocumentMoniker": "CardGame.Core\\Models\\Mao.cs",
-              "ToolTip": "D:\\Projects\\CSharp\\Simple-CardGame-CSharp\\CardGame.Core\\Models\\Mao.cs",
-              "RelativeToolTip": "CardGame.Core\\Models\\Mao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T01:37:20.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
